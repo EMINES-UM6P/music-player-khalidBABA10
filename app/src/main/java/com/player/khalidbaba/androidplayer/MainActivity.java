@@ -3,6 +3,7 @@ package com.player.khalidbaba.androidplayer;
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
 
@@ -22,6 +23,7 @@ public class MainActivity extends Activity {
             public void onClick(View view) {
                 if(isPlayed){
                     PlayPause.setImageDrawable(getResources().getDrawable(R.drawable.play_button__1_));
+                    Log.e("Hello", "Variable Player");
                 }else{
                     PlayPause.setImageDrawable(getResources().getDrawable(R.drawable.pause));
                 }
