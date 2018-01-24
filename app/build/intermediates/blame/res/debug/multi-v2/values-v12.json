@@ -1,10 +1,26 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/khalidbaba/Downloads/AndroidPlayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v12/values-v12.xml",
+            "outputFile": "C:\\Users\\khalidbaba\\Downloads\\AndroidPlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "/Users/khalidbaba/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bd291e17f8b233183472eabb5ae39211/res/values-v12/values-v12.xml",
+                    "source": "C:\\Users\\khalidbaba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bd291e17f8b233183472eabb5ae39211\\res\\values-v12\\values-v12.xml",
+                    "from": {
+                        "startLines": "2,5,8,9",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,279,479,598",
+                        "endLines": "4,7,8,9",
+                        "endColumns": "12,12,118,94",
+                        "endOffsets": "274,474,593,688"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\khalid.baba\\Desktop\\Cours\\Android\\music-player-khalidBABA10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khalid.baba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a1758cf5f9903c2027bd6f3a9203931b\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",

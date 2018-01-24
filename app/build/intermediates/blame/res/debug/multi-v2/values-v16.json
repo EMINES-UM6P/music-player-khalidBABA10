@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/khalidbaba/Downloads/AndroidPlayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v16/values-v16.xml",
+            "outputFile": "C:\\Users\\khalid.baba\\Desktop\\Cours\\Android\\music-player-khalidBABA10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
-                    "source": "/Users/khalidbaba/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/3aae7bb4d41f67e19665c592743f3049/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\khalid.baba\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\98fa63aca60349112cd7b2a7a97b9b76\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -14,7 +14,7 @@
                     }
                 },
                 {
-                    "source": "/Users/khalidbaba/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bd291e17f8b233183472eabb5ae39211/res/values-v16/values-v16.xml",
+                    "source": "C:\\Users\\khalid.baba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a1758cf5f9903c2027bd6f3a9203931b\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +30,40 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\khalidbaba\\Downloads\\AndroidPlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khalidbaba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bd291e17f8b233183472eabb5ae39211\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\khalidbaba\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\3aae7bb4d41f67e19665c592743f3049\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]

@@ -1,10 +1,25 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/khalidbaba/Downloads/AndroidPlayer/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "C:\\Users\\khalid.baba\\Desktop\\Cours\\Android\\music-player-khalidBABA10\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
             "map": [
                 {
-                    "source": "/Users/khalidbaba/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/bd291e17f8b233183472eabb5ae39211/res/values-land/values-land.xml",
+                    "source": "C:\\Users\\khalid.baba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\a1758cf5f9903c2027bd6f3a9203931b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\khalidbaba\\Downloads\\AndroidPlayer\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\khalidbaba\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\bd291e17f8b233183472eabb5ae39211\\res\\values-land\\values-land.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
